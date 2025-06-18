@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.incaas.service.AudienciaServiceTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.651 s -- in br.com.incaas.service.AudienciaServiceTest
