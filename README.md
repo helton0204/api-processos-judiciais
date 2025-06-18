@@ -9,6 +9,7 @@ Este é um projeto Java com Spring Boot, desenvolvido como desafio técnico para
 - Java 21
 - Spring Boot
 - Spring Data JPA
+- Spring Security
 - H2 Database (em memória)
 - Maven
 - Swagger (Springdoc OpenAPI)
